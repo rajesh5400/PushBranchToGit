@@ -5,8 +5,12 @@
  * @author rgopavarapu
  *
  */
- PushBranchCode {
+ PushBranchCode() {
 	 
-	System.out1.Prinvo("Rajesh Code");
+	 
+	 System.out.println("Push Code");
+	 
+	 System.out.println("Push Code");
+	 
 	 
 }
